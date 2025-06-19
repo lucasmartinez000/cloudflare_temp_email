@@ -84,7 +84,7 @@
 - 使用 Cloudflare Workers 部署后端
 - email 转发使用 Cloudflare Email Routing
 
-## Join Community
+## Example
 
-- [Discord](https://discord.gg/dQEwTWhA6Q)
-- [Telegram](https://t.me/cloudflare_temp_email)
+- [Temp Mail](https://tempmail100.com)
+- [TempMail 365](https://tempmail365.com)
